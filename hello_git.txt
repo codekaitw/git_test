@@ -1,1 +1,2 @@
 hello Andrew, hope you can do it well.
+try the core.editor --wait functionality.
